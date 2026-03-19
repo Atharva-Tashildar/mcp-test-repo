@@ -1,2 +1,1 @@
-# mcp-test-repo
-Test repo created via MCP
+# MCP Test Repo - Updated
